@@ -175,3 +175,26 @@
 # 	return n * fact(n-1) if n > 1 else 1
 
 # print(fact(4))
+
+# s = 'sabadef'
+# print(list(s))
+
+
+
+Data Structure 
+Linked lists
+Stacks
+Queues
+Sets
+Maps
+Hash tables
+Search trees
+
+
+Some common categories of algorithms are:
+
+Search
+Sorting
+Graph/tree traversing
+Dynamic programming
+Hashing and regex (string pattern matching)
